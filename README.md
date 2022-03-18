@@ -29,7 +29,7 @@ conda activate transeditor
 
 ## Download Trained Models
 - The trained models could be downloaded here [TransEditor Trained Models](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yxubu_connect_ust_hk/EvKIlqMewWJEncEOYiUtTCwBUY2FTuJPv8lAx7UPVD33TA?e=znM6z6).
-- The age classifier and gender classifier can be found [here](https://github.com/siriusdemon/pytorch-DEX/tree/master/dex/pth).
+- The age classifier and gender classifier for FFHQ dataset can be found [here](https://github.com/siriusdemon/pytorch-DEX/tree/master/dex/pth).
 - The out/ and psp_out/ should be put under the TransEditor/, the pth/ should be put under TransEditor/our_interfaceGAN/ffhq_utils/dex.
 
 
