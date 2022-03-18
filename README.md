@@ -1,6 +1,6 @@
 # TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing
 
-![teaser](./resources/teaser.png)
+![teaser](./resources/teaser_change_order.png)
 
 This repository provides the official PyTorch implementation for the following paper:
 
