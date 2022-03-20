@@ -25,7 +25,7 @@ conda activate transeditor
 | Datasets | [CelebA-HQ](https://docs.google.com/uc?export=download&id=1R72NB79CX0MpnmWSli2SMu-Wp-M0xI-o) | [Flickr-Faces-HQ (FFHQ)](https://github.com/NVlabs/ffhq-dataset) | 
 | :--- | :---: | :---: |
 
-- You can use [download.sh in StyleMapGAN](https://github.com/naver-ai/StyleMapGAN/blob/main/download.sh) to download the CelebA-HQ dataset raw images and create the LMDB datasets, similar for the FFHQ dataset.
+- You can use [download.sh in StyleMapGAN](https://github.com/naver-ai/StyleMapGAN/blob/main/download.sh) to download the CelebA-HQ dataset raw images and create the LMDB dataset format, similar for the FFHQ dataset.
 
 ## Download Pretrained Models
 
@@ -95,7 +95,7 @@ python projector_optimization.py --ckpt ./out/transeditor_celeba/checkpoint/3700
 ## Image Editing
 
 - The attribute classifiers for CelebA-HQ datasets can be found in [celebahq-classifiers](http://latent-composition.csail.mit.edu/other_projects/gan_ensembling/zips/pretrained_classifiers.zip). 
-- Rename the folder as `pth_celeba` and put it under `our_interfaceGAN/celeba_utils/`.
+- Rename the folder as `pth_celeba` and put it under the `our_interfaceGAN/celeba_utils/` folder.
 
 
 | CelebA_Attributes |attribute_index |
