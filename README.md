@@ -1,4 +1,4 @@
-# TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing
+# TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing (CVPR 2022)
 
 ![teaser](./resources/teaser_change_order.png)
 
