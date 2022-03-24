@@ -1,5 +1,5 @@
 @inproceedings{xu2022transeditor,
-  title={{TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing},
+  title={{TransEditor}: Transformer-Based Dual-Space {GAN} for Highly Controllable Facial Editing},
   author={Xu, Yanbo and Yin, Yueqin and Jiang, Liming and Wu, Qianyi and Zheng, Chengyao and Loy, Chen Change and Dai, Bo and Wu, Wayne},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2022}
