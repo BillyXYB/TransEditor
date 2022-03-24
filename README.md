@@ -145,11 +145,11 @@ python metrics/evaluate_query.py --ckpt ./out/transeditor_ffhq/checkpoint/790000
 
 ### Image Interpolation
 
-**interp_content_celeba**
+**interp_p_celeba**
 
 ![interp_p_celeba](./resources/interp_content_celeba.png)
 
-**interp_style_celeba**
+**interp_z_celeba**
 
 ![interp_z_celeba](./resources/interp_style_celeba.png)
 
