@@ -7,7 +7,7 @@ This repository provides the official PyTorch implementation for the following p
 **TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**<br>
 [Yanbo Xu](https://github.com/BillyXYB)\*, [Yueqin Yin](https://github.com/yinyueqin)\*, [Liming Jiang](https://liming-jiang.com/), [Qianyi Wu](https://qianyiwu.github.io), [Chengyao Zheng](https://github.com/daili0015), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://dblp.org/pid/50/8731.html)<br>
 In CVPR 2022. (* denotes equal contribution)<br>
-[**Project Page**](https://billyxyb.github.io/TransEditor/) | [**Paper**](https://arxiv.org/abs/2111.06849)
+[**Project Page**](https://billyxyb.github.io/TransEditor/) | [**Paper**](https://arxiv.org/abs/2203.17266)
 
 > **Abstract:** *Recent advances like StyleGAN have promoted the growth of controllable facial editing. To address its core challenge of attribute decoupling in a single latent space, attempts have been made to adopt dual-space GAN for better disentanglement of style and content representations. Nonetheless, these methods are still incompetent to obtain plausible editing results with high controllability, especially for complicated attributes. In this study, we highlight the importance of interaction in a dual-space GAN for more controllable editing. We propose TransEditor, a novel Transformer-based framework to enhance such interaction. Besides, we develop a new dual-space editing and inversion strategy to provide additional editing flexibility. Extensive experiments demonstrate the superiority of the proposed framework in image quality and editing capability, suggesting the effectiveness of TransEditor for highly controllable facial editing.*
 
