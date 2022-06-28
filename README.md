@@ -5,7 +5,7 @@
 This repository provides the official PyTorch implementation for the following paper:
 
 **TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**<br>
-[Yanbo Xu](https://github.com/BillyXYB)\*, [Yueqin Yin](https://github.com/yinyueqin)\*, [Liming Jiang](https://liming-jiang.com/), [Qianyi Wu](https://qianyiwu.github.io), [Chengyao Zheng](https://github.com/daili0015), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://dblp.org/pid/50/8731.html)<br>
+[Yanbo Xu](https://github.com/BillyXYB)\*, [Yueqin Yin](https://github.com/yinyueqin)\*, [Liming Jiang](https://liming-jiang.com/), [Qianyi Wu](https://qianyiwu.github.io), [Chengyao Zheng](https://github.com/daili0015), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://wywu.github.io/)<br>
 In CVPR 2022. (* denotes equal contribution)<br>
 [**Project Page**](https://billyxyb.github.io/TransEditor/) | [**Paper**](https://arxiv.org/abs/2203.17266)
 
